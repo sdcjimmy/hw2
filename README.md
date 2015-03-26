@@ -1,4 +1,4 @@
-user1 !!!!!!!
+use2 !!!!!!!
 :
 This is tutorial for git and github TA lecture
 
